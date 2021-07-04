@@ -1,6 +1,6 @@
 About Me:
 - 👋 Hi, I’m @ReallyFatYoshi;
-- 📚 I'm currently learning: batch, python 3.0, HTML5 Canvas API;
+- 📚 I'm currently learning: batch, python 3.0, HTML5 Canvas API and Kotlin;
 - 🎮 I also like to play video games.
 
 <!---

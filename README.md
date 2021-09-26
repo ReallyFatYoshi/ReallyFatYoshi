@@ -4,6 +4,7 @@ About Me:
 - 🎮 I also like to play video games.
  
 <br>
+
 [![@ReallyFatYoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReallyFatYoshi)](https://github.com/anuraghazra/github-readme-stats)
 
 

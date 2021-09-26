@@ -3,7 +3,4 @@ About Me:
 - 📚 I'm currently learning: batch, python 3.0, HTML5 Canvas API and Kotlin;
 - 🎮 I also like to play video games.
 
-<!---
-ReallyFatYoshi/ReallyFatYoshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![@ReallyFatYoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReallyFatYoshi)](https://github.com/anuraghazra/github-readme-stats)

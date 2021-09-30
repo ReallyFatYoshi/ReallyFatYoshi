@@ -4,7 +4,6 @@ About Me:
 - 🎮 I also like to play video games.
  
 ![](https://komarev.com/ghpvc/?username=ReallyFatYoshi&label=Visitors)
-![](https://komarev.com/ghpvc/?username=ReallyFatYoshi&label=Stars)
 
 <br>
 

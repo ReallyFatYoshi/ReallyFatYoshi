@@ -7,5 +7,6 @@ About Me:
 
 <br>
 
-[![@ReallyFatYoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReallyFatYoshi&theme=onedark)]
+![@ReallyFatYoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReallyFatYoshi&theme=onedark)
+
 

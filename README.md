@@ -1,8 +1,4 @@
-About Me:
-- 👋 Hi, I’m @ReallyFatYoshi;
-- 📚 I'm currently learning: batch, php, python 3.0, HTML5 Canvas API and Kotlin;
-- 🎮 I also like to play video games.
- 
+Python and TS for the win!
 ![](https://komarev.com/ghpvc/?username=ReallyFatYoshi&label=Visitors)
 
 <br>

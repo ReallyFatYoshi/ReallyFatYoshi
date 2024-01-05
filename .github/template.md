@@ -18,9 +18,9 @@
 <h3 align="center">☄️Commits as snake🐍</h3>
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-        <img alt="github-snake" src="dist/github-snake.svg" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReallyFatYoshi/ReallyFatYoshi/images/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReallyFatYoshi/ReallyFatYoshi/images/github-snake.svg" />
+        <img alt="github-snake" src="https://raw.githubusercontent.com/ReallyFatYoshi/ReallyFatYoshi/images/github-snake.svg" />
     </picture>
     <!--#LATEST_COMMIT-->
 </div>

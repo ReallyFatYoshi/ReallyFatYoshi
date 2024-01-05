@@ -22,7 +22,7 @@
         <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
         <img alt="github-snake" src="dist/github-snake.svg" />
     </picture>
-    <a target="_blank" href="https://github.com/ReallyFatYoshi-Random/quotes-rest-api">~ View latest commit ~</a>
+    <a target="_blank" href="https://github.com/ReallyFatYoshi/ReallyFatYoshi">~ View latest commit ~</a>
 </div>
 <hr />
 

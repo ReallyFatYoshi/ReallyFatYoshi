@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "prestart": "npm ci",
+    "start": "node ./.github/script.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.4",
+    "js-beautify": "^1.14.11"
+  }
+}

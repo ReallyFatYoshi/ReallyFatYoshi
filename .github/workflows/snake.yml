@@ -1,7 +1,7 @@
 name: "Generate Snake Gif"
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/45 * * * *"
 
 jobs:
   build:

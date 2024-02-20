@@ -1,0 +1,28 @@
+name: "Latest commit 🔎"
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm run start
+
+      - run: |
+          if git diff --exit-code; then
+            echo "::set-output name=changes_exist::false"
+          else
+            echo "::set-output name=changes_exist::true"
+          fi
+
+      - name: Git push
+        if: steps.build.outputs.changes_exist == 'true'
+        run: |
+          git add --all
+          git commit -m "Updated latest commit ✏️"
+          git push -u origin main
